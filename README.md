@@ -1,4 +1,5 @@
 # CMPUT466-Mini-Project University of Alberta
+This is the mini project for CMPUT466(Winter 24) at the University of Alberta
 ## Project Overview
 This project aims to predict the quality of red wine using machine learning techniques. By analyzing the chemical properties of red wine, we attempt to build a model to predict the quality of wine and classify it as either "good" or "bad".
 
