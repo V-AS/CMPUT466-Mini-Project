@@ -10,12 +10,12 @@ Email: huo1@ualberta.ca
 1. Download the project files:
 
 - Download the project files from the GitHub repository.
-- Ensure that the winequality-red.csv dataset and mini_code.ipynb notebook are in the same folder.
-- Set up your environment:
-
-2. Make sure you have Python and Jupyter Notebook installed.
+- Ensure that the winequality-red.csv dataset and project.ipynb notebook are in the same folder.
+2. Set up your environment:
+  
+- Make sure you have Python and Jupyter Notebook installed.
 - Install all required Python libraries.
-- Run the project:
-
-3. Navigate to the project folder.
+3. Run the project:
+  
+- Navigate to the project folder.
 - Open Jupyter Notebook and run all the cells.
